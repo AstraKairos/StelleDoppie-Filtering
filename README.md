@@ -1,5 +1,7 @@
 # Double Star Celestial Motion Analysis
 
+This project has been deprecated in favor of **[astrakairos](https://github.com/AstraKairos/astrakairos)**.
+
 This project consists of a script designed to analyze the total angular motion (`v_total`) (aka "total observed angular velocity") of double star systems. The script automates the process of:
 1.  Loading a list of stars from a CSV file **exported directly from Stelle Doppie**.
 2.  Performing massive and concurrent web scraping on the [Stelle Doppie](https://www.stelledoppie.it/) database.
